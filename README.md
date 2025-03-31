@@ -77,7 +77,7 @@
     </section>
     <section id="trailer">
         <h2>Tráiler</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/82WW9dVbglI" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/82WW9dVbglI"
     </section>
     <footer>
         © 2025 Flow - Un mundo que salvar. Todos los derechos reservados.
